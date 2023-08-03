@@ -1,0 +1,4 @@
+Country, Brand, Model, Cost, Quantity
+South Africa, 1000, Nike template, 1000, 20
+America, 1200, Nike Wing, 1200, 20
+Turkey, 1300, Nike Turkana, 1500, 29
